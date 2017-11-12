@@ -733,7 +733,7 @@ INPUTBOX
 956
 291
 max-steps
-500.0
+5550.0
 1
 0
 Number
@@ -895,7 +895,7 @@ initial-forage-assignment-rate
 initial-forage-assignment-rate
 0
 100
-51.0
+50.0
 1
 1
 NIL
@@ -947,11 +947,11 @@ NIL
 HORIZONTAL
 
 PLOT
-1021
-9
-1221
-159
-plot 1
+1012
+8
+1284
+158
+Foraging by forage specialized ants vs Foraging by brood specialized ants
 NIL
 NIL
 0.0
@@ -962,8 +962,8 @@ true
 false
 "" ""
 PENS
-"foraging by brood workers" 1.0 0 -16777216 true "" "plot foraging-by-brooders"
-"foraging by foragers" 1.0 0 -7500403 true "" "plot foraging-by-foragers"
+"foraging by brood workers" 1.0 0 -8431303 true "" "plot foraging-by-brooders"
+"foraging by foragers" 1.0 0 -14439633 true "" "plot foraging-by-foragers"
 
 @#$#@#$#@
 ## WHAT IS IT?
