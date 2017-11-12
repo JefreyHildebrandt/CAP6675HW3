@@ -30,6 +30,9 @@ globals [
   brood-points
   forage-points
 
+  foraging-by-foragers
+  foraging-by-brooders
+
   brood-colors
   forage-colors
 ]
@@ -164,10 +167,17 @@ to return-to-nest  ;; turtle procedure
     set cur-prev-step 0
     if not (color = black)
     [ifelse brood-worker?
-     [ set own-brood-forage-points  own-brood-forage-points - 1
+     [
+       set own-brood-forage-points  own-brood-forage-points - 1
        set own-brood-points own-brood-points + 1
        set brood-points brood-points + 1]
-     [ set own-brood-forage-points own-brood-forage-points + 1
+     [
+       if own-brood-forage-points < 0
+       [set foraging-by-brooders foraging-by-brooders + 1]
+       if own-brood-forage-points > 0
+       [set foraging-by-foragers foraging-by-foragers + 1]
+
+       set own-brood-forage-points own-brood-forage-points + 1
        set own-forage-points own-forage-points + 1
        set forage-points forage-points + 1]]
     brood-or-forage-worker
@@ -666,7 +676,7 @@ population
 population
 0.0
 1000
-1000.0
+115.0
 1.0
 1
 NIL
@@ -723,7 +733,7 @@ INPUTBOX
 956
 291
 max-steps
-10000.0
+500.0
 1
 0
 Number
@@ -837,7 +847,7 @@ INPUTBOX
 961
 444
 return-speed
-1.0
+2.0
 1
 0
 Number
@@ -935,6 +945,25 @@ max-resistance
 1
 NIL
 HORIZONTAL
+
+PLOT
+1021
+9
+1221
+159
+plot 1
+NIL
+NIL
+0.0
+10.0
+0.0
+10.0
+true
+false
+"" ""
+PENS
+"foraging by brood workers" 1.0 0 -16777216 true "" "plot foraging-by-brooders"
+"foraging by foragers" 1.0 0 -7500403 true "" "plot foraging-by-foragers"
 
 @#$#@#$#@
 ## WHAT IS IT?
