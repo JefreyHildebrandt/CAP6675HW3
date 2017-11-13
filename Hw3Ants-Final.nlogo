@@ -41,6 +41,18 @@ globals [
   brood-colors
   forage-colors
   infile
+
+  ;; Cumulative % ants that are foragers
+  total-%-forager-ants
+
+  ;; Average % forager ants over time
+  avg-%-forager-ants
+
+  ;; Cumulative % foraging done by forager ants
+  total-%-foraging-by-foragers
+
+  ;; Average % foraging done by foragers
+  avg-%-foraging-by-foragers
 ]
 
 ;;;;;;;;;;;;;;;;;;;;;;;;
@@ -61,6 +73,12 @@ to setup
   set foraging-by-foragers 0
   set foraging-by-brooders 0
   Init-Ants
+
+  ;; Set monitors
+  set total-%-forager-ants 0
+  set avg-%-forager-ants 0
+  set total-%-foraging-by-foragers 0
+  set avg-%-foraging-by-foragers 0
 
   set brood-colors (list (gray + 4) (orange + 3) (orange + 2) (orange + 1) (orange))
   set forage-colors (list (gray + 4) (turquoise + 3) (turquoise + 2) (turquoise + 1) (turquoise))
@@ -132,6 +150,38 @@ to go  ;; forever button
   ask patches
   [ set chemical chemical * (100 - evaporation-rate) / 100  ;; slowly evaporate chemical
     recolor-patch ]
+
+  ;; compute monitors
+;  let cur-%-forager-ants 0.0
+;  let cur-tot-forage (foraging-by-foragers + foraging-by-brooders)
+;  if (cur-tot-forage != 0)
+;  [ set cur-%-forager-ants (foraging-by-foragers / cur-tot-forage) * 100 ]
+;  set total-%-forager-ants (total-%-forager-ants + cur-%-forager-ants)
+;  set avg-%-forager-ants 0.0
+;  if (ticks > 0)
+;  [ set avg-%-forager-ants (total-%-forager-ants / ticks) ]
+;
+;  let cur-%-foraging-by-foragers (100 * (count turtles with [not brood-worker?] / count turtles))
+;  set total-%-foraging-by-foragers (total-%-foraging-by-foragers + cur-%-foraging-by-foragers)
+;  set avg-%-foraging-by-foragers 0.0
+;  if (ticks > 0)
+;  [ set avg-%-foraging-by-foragers (total-%-foraging-by-foragers / ticks) ]
+
+  ;; compute monitors
+  let cur-%-forager-ants (100 * (count turtles with [not brood-worker?] / count turtles))
+  set total-%-forager-ants (total-%-forager-ants + cur-%-forager-ants)
+  set avg-%-forager-ants 0.0
+  if (ticks > 0)
+  [ set avg-%-forager-ants (total-%-forager-ants / ticks) ]
+
+  let cur-%-foraging-by-foragers 0.0
+  let cur-tot-forage (foraging-by-foragers + foraging-by-brooders)
+  if (cur-tot-forage != 0)
+  [ set cur-%-foraging-by-foragers (foraging-by-foragers / cur-tot-forage) * 100 ]
+  set total-%-foraging-by-foragers (total-%-foraging-by-foragers + cur-%-foraging-by-foragers)
+  set avg-%-foraging-by-foragers 0.0
+  if (ticks > 0)
+  [ set avg-%-foraging-by-foragers (total-%-foraging-by-foragers / ticks) ]
 
 
    set Pct-Forager-Count 100.0 * (count turtles with [not brood-worker?]) / (count turtles)
@@ -556,6 +606,19 @@ end
 to init-sim-from-file
   clear-all
   set-default-shape turtles "bug"
+
+  ;; Cumulative % ants that are foragers
+  set total-%-forager-ants 0
+
+  ;; Average % forager ants over time
+  set avg-%-forager-ants 0
+
+  ;; Cumulative % foraging done by forager ants
+  set total-%-foraging-by-foragers 0
+
+  ;; Average % foraging done by foragers
+  set avg-%-foraging-by-foragers 0
+
   check-header
   init-globals
   init-patches-from-file
@@ -1029,7 +1092,7 @@ CHOOSER
 Threshold-Change-Scheme
 Threshold-Change-Scheme
 "No-Change" "Flat-Change" "Gradual-Change"
-1
+0
 
 CHOOSER
 1032
@@ -1039,7 +1102,7 @@ CHOOSER
 Initial-Foraging-Threshold
 Initial-Foraging-Threshold
 "75%" "Random" "50%"
-1
+0
 
 BUTTON
 1032
@@ -1135,6 +1198,50 @@ false
 PENS
 "foraging by brood workers" 1.0 0 -955883 true "" "plot foraging-by-brooders"
 "foraging by foragers" 1.0 0 -11221820 true "" "plot foraging-by-foragers"
+
+MONITOR
+1210
+300
+1379
+345
+avg-food-per-ant
+mean [own-brood-points + own-forage-points] of turtles
+2
+1
+11
+
+MONITOR
+1211
+351
+1381
+396
+NIL
+avg-%-forager-ants
+2
+1
+11
+
+MONITOR
+1210
+403
+1382
+448
+NIL
+avg-%-foraging-by-foragers
+2
+1
+11
+
+MONITOR
+1227
+482
+1396
+527
+cur-foragers
+100 * (count turtles with [not brood-worker?] / count turtles)
+2
+1
+11
 
 @#$#@#$#@
 ## WHAT IS IT?

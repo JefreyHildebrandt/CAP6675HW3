@@ -5,17 +5,19 @@
 35
 0
 0
-0
-0
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+1
+1
+[9 28 27 26 25]
+[9 78 77 76 75]
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -78,20 +80,20 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -149,23 +151,23 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -220,12 +222,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -235,11 +231,17 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -291,15 +293,18 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -310,7 +315,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -325,8 +329,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -362,19 +364,21 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -383,7 +387,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -397,7 +400,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -433,23 +435,23 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -510,19 +512,19 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -582,25 +584,25 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -657,22 +659,22 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -731,15 +733,15 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -765,9 +767,7 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -788,6 +788,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -805,16 +807,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -836,11 +838,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -859,6 +859,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -880,14 +882,14 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -907,11 +909,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -953,13 +955,13 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -977,12 +979,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1001,6 +997,12 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1024,8 +1026,9 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -1036,7 +1039,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1048,12 +1050,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1072,6 +1072,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1095,14 +1097,14 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1118,13 +1120,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1143,6 +1138,13 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1166,15 +1168,15 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1188,14 +1190,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1214,6 +1208,14 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1237,15 +1239,15 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1258,17 +1260,19 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1283,8 +1287,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1308,16 +1310,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1329,19 +1331,19 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1379,19 +1381,19 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1400,15 +1402,19 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1423,10 +1429,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1451,18 +1453,18 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1478,12 +1480,12 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1522,16 +1524,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 false true false false
@@ -1539,22 +1541,22 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1593,23 +1595,18 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true true false
@@ -1619,13 +1616,18 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1664,25 +1666,20 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -1690,13 +1687,18 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1736,29 +1738,25 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1768,6 +1766,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1807,29 +1809,24 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1840,6 +1837,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1853,6 +1853,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1879,23 +1881,18 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -1924,6 +1921,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -1951,26 +1953,25 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -1995,6 +1996,7 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2022,26 +2024,25 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2066,6 +2067,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2095,24 +2098,21 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2137,6 +2137,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2166,18 +2168,13 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
+0 false 0 true false true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -2208,7 +2205,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2241,16 +2242,12 @@
 0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -2279,65 +2276,65 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true true true true
-0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 true true true true
+0 false 0 true true true true
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -2350,7 +2347,12 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2362,9 +2364,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2381,6 +2380,9 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
@@ -2390,29 +2392,23 @@
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
 0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2421,10 +2417,16 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2433,9 +2435,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2452,6 +2451,9 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
@@ -2461,7 +2463,6 @@
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -2477,14 +2478,9 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2492,10 +2488,19 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2504,9 +2509,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2547,15 +2549,9 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2563,10 +2559,16 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2603,8 +2605,6 @@
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -2620,11 +2620,9 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2634,7 +2632,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2660,11 +2661,12 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
@@ -2684,14 +2686,14 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2705,16 +2707,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2733,7 +2730,12 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2744,9 +2746,6 @@
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true false false
@@ -2760,9 +2759,12 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2804,8 +2806,8 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -2814,14 +2816,9 @@
 0 false 0 true true true true
 0 false 0 true true true true
 0 false 0 true true true true
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2834,6 +2831,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2847,6 +2849,7 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2875,24 +2878,22 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2918,6 +2919,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -2951,19 +2956,13 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -2989,6 +2988,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3017,25 +3019,24 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3060,6 +3061,7 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3087,26 +3089,26 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3158,27 +3160,27 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3229,27 +3231,27 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3299,29 +3301,29 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3369,17 +3371,23 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3387,13 +3395,7 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3440,31 +3442,29 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3486,6 +3486,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3511,8 +3513,10 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -3520,17 +3524,9 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -3557,6 +3553,12 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3581,26 +3583,21 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -3616,6 +3613,11 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3652,41 +3654,41 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3723,14 +3725,14 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3741,9 +3743,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -3751,13 +3750,16 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
+0 true 1000 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3793,20 +3795,19 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3814,7 +3815,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true false false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
@@ -3822,13 +3822,15 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3864,8 +3866,9 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -3876,8 +3879,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3893,12 +3894,13 @@
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3912,6 +3914,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -3937,7 +3942,6 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -3946,8 +3950,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -3958,18 +3960,18 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
 0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
 0 false 0 false true true false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
-0 false 0 false true false false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4003,16 +4005,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4030,17 +4032,17 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
+0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4072,17 +4074,17 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4102,11 +4104,8 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 true 10 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4125,6 +4124,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4143,14 +4145,14 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
@@ -4173,10 +4175,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4212,16 +4214,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
-0 false 10 true false true false
 0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4245,9 +4247,6 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 false true true false
-0 false 0 false true true false
-0 false 0 false true true false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4267,6 +4266,9 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
+0 false 0 false true false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4281,19 +4283,18 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4303,6 +4304,7 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4349,22 +4351,21 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4374,6 +4375,7 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4417,17 +4419,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4445,6 +4446,7 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4487,16 +4489,16 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4558,22 +4560,22 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4629,12 +4631,13 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 false 0 true false true false
-0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4657,7 +4660,6 @@
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false false false
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
@@ -4693,17 +4695,17 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
-0 true 10 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4764,15 +4766,15 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
-0 false 0 true false true false
-0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4835,13 +4837,10 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
@@ -4852,6 +4851,9 @@
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4906,22 +4908,22 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
 0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false false false
+0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -4977,18 +4979,18 @@
 0 false 0 false true false false
 0 false 0 false true false false
 0 false 0 false true false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
-0 false 0 true false false false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 true 1000 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
+0 false 0 true false true false
 0 false 0 true false false false
 0 false 0 true false false false
 0 false 0 true false false false
@@ -5049,1003 +5051,1003 @@
 0 false 0 false true false false
 0 false 0 false true false false
 1000
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 false
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
-2 15 0 0 2  0 0 0 0 0 0 0 true
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 false 0 0
+2 9 0 0 2  0 0 0 0 0 0 0 0 true 0 0
